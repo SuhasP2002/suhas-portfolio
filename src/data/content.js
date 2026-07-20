@@ -43,11 +43,11 @@ export const skills = [
 
 export const experience = [
   {
-    role: 'Software Engineer 1',
+    role: 'Software Engineer',
     type: 'Full-time',
     company: 'Lenze',
     location: 'Hybrid • Pune',
-    period: 'Jun 2024 — Present',
+    period: 'Jun 2024 — Jul 2026',
     status: '200 OK',
     highlights: [
       'Designed and developed 5+ enterprise application modules using Java, Spring Boot, Spring MVC, and React.js for industrial automation solutions.',
